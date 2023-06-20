@@ -106,7 +106,7 @@
     background-image: url(../img/icons/techs/gradient/javascript.svg);
 }
 
-.projetos__techs--item:nth-of-type(4) {
+/*.projetos__techs--item:nth-of-type(4) {
     background-image: url(../img/icons/techs/gradient/sass.svg);
 }
 
@@ -132,7 +132,7 @@
 
 .projetos__techs--item:nth-of-type(10) {
     background-image: url(../img/icons/techs/gradient/github.svg);
-}
+}*/
 
 .projetos__projeto {
     border-radius: 24px;
